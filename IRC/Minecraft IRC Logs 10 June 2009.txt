@@ -83,7 +83,7 @@ P5:19:46 <Thi3f> Under Advanced tab, and then Java Plug-in -> Activate next gene
 P5:20:25 <KEROLiUKAS> tried it
 P5:20:28 <KEROLiUKAS> no good
 P5:21:53 <Thi3f> Well, I'm out of ideas
-P5:21:54 <Thi3f> ¯\(°_o)/¯
+P5:21:54 <Thi3f> Â¯\(Â°_o)/Â¯
 10P5:22:20 * timewarp (timewarp@24-183-190-25.dhcp.oxfr.ma.charter.com) has left #minecraft
 10P5:25:34 * Looking up Drakkar user info...
 10P5:25:41 * Looking up pyl user info...
